@@ -18,22 +18,22 @@ Studio Oneのドラムマップ管理用エクセルブックです
 	- Addictive Drums 2  
 	- BFD3  
 	- MODO DRUM  
-	- SSD 5.5  
+	- SSD 5.5 StevenSlateDrums 5.5  
 	- MT-Power Drum Kit 2  
-	- GA Rock Kit  
-	- GA Studio Kit  
-	- GA Vintage Kit  
-	- EZD3 Bright Room  
-	- EZD3 Main Room  
-	- EZD3 Tight Room  
-	- EZX Jazz  
-	- EZX Metal!  
-	- SD3 CORE  
-	- SDX Stories - iso A  
-	- SDX Stories - iso B  
-	- SDX Stories - Main  
-	- SDX Hitmaker  
-	- StudioDrummer - StadiumKit  
+	- GA Rock Kit Groove Agent 5  
+	- GA Studio Kit Groove Agent 5  
+	- GA Vintage Kit Groove Agent 5  
+	- EZD3 Bright Room EZdrummer 3  
+	- EZD3 Main Room EZdrummer 3  
+	- EZD3 Tight Room EZdrummer 3  
+	- EZX Jazz EZdrummer 3  
+	- EZX Metal! EZdrummer 3  
+	- SD3 CORE Superior Drummer 3  
+	- SDX Stories - iso A Superior Drummer 3  
+	- SDX Stories - iso B Superior Drummer 3  
+	- SDX Stories - Main Superior Drummer 3  
+	- SDX Hitmaker Superior Drummer 3  
+	- StudioDrummer - StadiumKit KONTAKT  
 
 ### 〇　ダウンロード  
 'QB Drum Map.zip'をクリック後、右側の'Down Load raw file'ボタンを押してダウンロードしてください。  
