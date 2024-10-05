@@ -15,7 +15,7 @@ Studio Oneのドラムマップ管理用エクセルブックです
 ### 使い方  
 ショートカットキーCTRL+Eにマクロ呼び出しフォーム表示を割り当ててあります。 
 
-####'Pitch Name'ラジオボタン  
+#### 'Pitch Name'ラジオボタン  
 - Original：音程名にマップシートの'Name'列が使用されます。
 - Articulation：音程名にマップシートの'Articulation'列が使用されます。
 
