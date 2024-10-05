@@ -14,6 +14,9 @@ Studio Oneのドラムマップ管理用エクセルブックです
 
 ### 使い方  
 ショートカットキーCTRL+Eにマクロ呼び出しフォーム表示を割り当ててあります。  
+'Pitch Name'ラジオボタン  
+- 'Original':音程名にマップシートの'Name'列が使用されます。
+- 'Articulation':音程名にマップシートの'Articulation'列が使用されます。
 
 1.Studio One用ピッチリスト出力の場合  
 'Drum Map'一覧より処理対象を選択し'Go'ボタンを押下します。  
