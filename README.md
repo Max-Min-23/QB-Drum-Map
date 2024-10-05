@@ -14,27 +14,26 @@ Studio Oneのドラムマップ管理用エクセルブックです
 - QB Converterとの併用で、ネット上で配布されているドラムマップを配布の形式を問わずStudio OneやCubaseで利用可能になります
 
 - 以下のドラムマップが初期マップとして入っています
--- GM Custom
--- Addictive Drums 2
--- BFD3
--- MODO DRUM
--- SSD 5.5
--- MT-Power Drum Kit 2
--- GA Rock Kit
--- GA Studio Kit
--- GA Vintage Kit
--- EZD3 Bright Room
--- EZD3 Main Room
--- EZD3 Tight Room
--- EZX Jazz
--- EZX Metal!
--- SD3 CORE
--- SDX Stories - iso A
--- SDX Stories - iso B
--- SDX Stories - Main
--- SDX Hitmaker
--- StudioDrummer - StadiumKit
--- 
+-- GM Custom  
+-- Addictive Drums 2  
+-- BFD3  
+-- MODO DRUM  
+-- SSD 5.5  
+-- MT-Power Drum Kit 2  
+-- GA Rock Kit  
+-- GA Studio Kit  
+-- GA Vintage Kit  
+-- EZD3 Bright Room  
+-- EZD3 Main Room  
+-- EZD3 Tight Room  
+-- EZX Jazz  
+-- EZX Metal!  
+-- SD3 CORE  
+-- SDX Stories - iso A  
+-- SDX Stories - iso B  
+-- SDX Stories - Main  
+-- SDX Hitmaker  
+-- StudioDrummer - StadiumKit  
 
 ### 〇　ダウンロード  
 'QB Drum Map.zip'をクリック後、右側の'Down Load raw file'ボタンを押してダウンロードしてください。  
