@@ -1,5 +1,6 @@
 # QB Drum Map
 Studio Oneのドラムマップ管理用エクセルブックです  
+![QB Drum Map](https://github.com/user-attachments/assets/20decb0f-e7ad-4e76-84be-6145ede030c6)
 
 ### 〇　特徴
 - エクセルによる編集機能が存分に使えるため、アプリケーション形式の場合よりも自由に編集が可能です。  
