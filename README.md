@@ -11,13 +11,14 @@ Studio Oneのドラムマップ管理用エクセルブックです
 ### システムシート
 シート名 | 内容
 --- | --- 
-_Keyboard | Cubaseのドラムマップファイル
-_Pitch | Studio Oneのピッチリストファイル
-_Techniq | CSVファイル
-_Kit | テキストファイル
-_Kit Piece | テキストファイル
-_Articulation | テキストファイル
-_work | テキストファイル
-_ArticulationMap | テキストファイル
+_Keyboard | 
+_Pitch | 音程番号と音程名の対応データ（ヤマハ式）
+_NoteHead | スコアビューの符頭表示データ
+_Techniq | スコアビューのテクニック表示データ
+_Kit | ドラムキットのカテゴリ分類データ
+_Kit Piece | ドラムキットのキットピースデータ
+_Articulation | キットピースのアーティキュレーションデータ
+_work | 各種テキストファイル編集一時ワーク
+_ArticulationMap | 各種テキストファイル編集一時ワーク
 
 
