@@ -15,25 +15,25 @@ Studio Oneのドラムマップ管理用エクセルブックです
 ### 使い方  
 ショートカットキーCTRL+Eにマクロ呼び出しフォーム表示を割り当ててあります。 
 
-'Pitch Name'ラジオボタン  
+####'Pitch Name'ラジオボタン  
 - Original：音程名にマップシートの'Name'列が使用されます。
 - Articulation：音程名にマップシートの'Articulation'列が使用されます。
 
-'Use Previouse Folder'チェックボックス  
+####'Use Previouse Folder'チェックボックス  
 - チェックあり：前回の保存先が記憶されている場合は保存先の選択ダイアログを表示しません。
 - チェックなし：保存先の選択ダイアログが毎回表示されます。
 
-1.Studio One用ピッチリスト出力の場合  
+####1.Studio One用ピッチリスト出力の場合  
 'Drum Map'一覧より処理対象を選択し'Go'ボタンを押下します。  
 
-2.Cubaseドラムマップ変換用CSV出力の場合  
+####2.Cubaseドラムマップ変換用CSV出力の場合  
 'Drum Map'一覧より処理対象を選択し'Exp. CSV'ボタンを押下します。  
 
-3.NoteMapper用テンプレート出力  
+####3.NoteMapper用テンプレート出力  
 'Convert Base'コンボボックスより入力ピッチで使用するマップを選択します。  
 'Drum Map'一覧より処理対象を選択し'Exp. NoteMapper'ボタンを押下します。  
 
-4.NoteMapper用テンプレート出力  
+####4.NoteMapper用テンプレート出力  
 'Convert Base'コンボボックスより入力ピッチで使用するマップを選択します。  
 'Drum Map'一覧より処理対象を選択し'Exp. QB Drummer'ボタンを押下します。  
 
