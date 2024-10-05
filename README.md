@@ -10,7 +10,7 @@ Studio Oneのドラムマップ管理用エクセルブックです
   - NoteMapper用テンプレート出力  
   - QB Drummer用テンプレート出力 ※現在、開発中のプラグイン用プリセットファイル出力  
 
--- QB Converterとの併用で、ネット上で配布されているドラムマップを配布の形式を問わずStudio OneやCubaseで利用可能になります
+- QB Converterとの併用で、ネット上で配布されているドラムマップを配布の形式を問わずStudio OneやCubaseで利用可能になります
 
 ### インストール  
 
