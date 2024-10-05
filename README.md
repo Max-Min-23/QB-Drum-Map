@@ -34,6 +34,7 @@ Studio Oneのドラムマップ管理用エクセルブックです
 #### 2. Cubaseドラムマップ変換用CSV出力の場合  
 'Convert Base'コンボボックスより入力ピッチで使用するマップを選択します。  
 'Drum Map'一覧より処理対象を選択し'Exp. CSV'ボタンを押下します。  
+※出力されたCSVファイルはQB ConverterでCubase用のドラムマップに変換できます。
 
 #### 3. NoteMapper用テンプレート出力  
 'Convert Base'コンボボックスより入力ピッチで使用するマップを選択します。  
